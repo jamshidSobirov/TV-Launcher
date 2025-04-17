@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.TVLauncher" parent="@style/Theme.Leanback" />
+</resources>
